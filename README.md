@@ -30,7 +30,7 @@ OpenGPTs gives you more control, allowing you to configure:
 
 ```shell
 cd backend
-pip install -r requirements.txt
+poetry install
 ```
 
 **Set up persistence layer**
